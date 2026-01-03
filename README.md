@@ -66,7 +66,7 @@ Pour supprimer toutes les traces laissées par la simulation sur votre machine :
 * **Module :** Sécurité Informatique
 * **Établissement :** ESSTHS (Tunisie)
 * **Année Universitaire :** 2025/2026
-* **Encadrant :** M. Ala Eddine Kharrat
+* **prof :** M. Ala Eddine Kharrat
 * **Étudiant :** Nasr Bouzaida
 
 ---
