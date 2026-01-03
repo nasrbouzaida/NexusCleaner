@@ -67,7 +67,7 @@ Pour supprimer toutes les traces laissées par la simulation sur votre machine :
 * **Établissement :** ESSTHS (Tunisie)
 * **Année Universitaire :** 2025/2026
 * **Encadrant :** M. Ala Eddine Kharrat
-* **Étudiant :** [VOTRE NOM ICI]
+* **Étudiant :** Nasr Bouzaida
 
 ---
 *Ce projet a été réalisé avec Python 🐍.*
